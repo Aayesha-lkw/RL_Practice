@@ -1,0 +1,6 @@
+gymnasium
+tensorflow
+keras
+pandas
+cv2
+numpy

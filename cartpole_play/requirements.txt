@@ -1,0 +1,7 @@
+gymnasium
+cv2
+numpy
+tensorflow
+keras
+pickle
+pandas

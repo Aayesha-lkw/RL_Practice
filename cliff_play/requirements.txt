@@ -1,0 +1,4 @@
+gymnasium
+cv2
+pickle
+numpy
